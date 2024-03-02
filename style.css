@@ -115,6 +115,16 @@ body{
   width: 50%;
 }
 
+.weather-details .humidity{
+  padding-left: 20px;
+  justify-content: flex-start;
+}
+
+.weather-details .wind{
+  padding-left: 20px;
+  justify-content: flex-end;
+}
+
 .weather-details i {
   font-size: 56px;
   margin-right: 10px;
