@@ -86,3 +86,9 @@ body{
   line-height: 1;
   font-weight: 700;
 }
+
+.weather-box .temperature span{
+  position: absolute;
+  font-size: 24px;
+  margin-left: 4px;
+}
