@@ -76,3 +76,13 @@ body{
   max-width: 40px 0;
 }
 
+.weather-box img{
+  width: 60%;
+}
+
+.weather-box .temperature {
+  position: relative;
+  font-size: 64px;
+  line-height: 1;
+  font-weight: 700;
+}
